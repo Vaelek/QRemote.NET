@@ -1,0 +1,7 @@
+D:\Downloads\codestuff\globalmousekeyhook-26722\Main\MouseKeyboardActivityMonitor\bin\Debug\MouseKeyboardActivityMonitor.dll
+D:\Downloads\codestuff\globalmousekeyhook-26722\Main\MouseKeyboardActivityMonitor\bin\Debug\MouseKeyboardActivityMonitor.pdb
+D:\Downloads\codestuff\globalmousekeyhook-26722\Main\MouseKeyboardActivityMonitor\bin\Debug\MouseKeyboardActivityMonitor.xml
+D:\Downloads\codestuff\globalmousekeyhook-26722\Main\MouseKeyboardActivityMonitor\bin\Debug\MouseKeyboardActivityMonitor.dll.CodeAnalysisLog.xml
+D:\Downloads\codestuff\globalmousekeyhook-26722\Main\MouseKeyboardActivityMonitor\bin\Debug\MouseKeyboardActivityMonitor.dll.lastcodeanalysissucceeded
+D:\Downloads\codestuff\globalmousekeyhook-26722\Main\MouseKeyboardActivityMonitor\obj\Debug\MouseKeyboardActivityMonitor.dll
+D:\Downloads\codestuff\globalmousekeyhook-26722\Main\MouseKeyboardActivityMonitor\obj\Debug\MouseKeyboardActivityMonitor.pdb

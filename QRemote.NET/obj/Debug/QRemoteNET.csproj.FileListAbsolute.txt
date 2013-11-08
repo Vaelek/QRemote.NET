@@ -1,0 +1,4 @@
+d:\code\QRemote\QW-Remote\QW-Remote\QRemote.NET\bin\Debug\QRemote.NET.dll
+d:\code\QRemote\QW-Remote\QW-Remote\QRemote.NET\bin\Debug\QRemote.NET.pdb
+d:\code\QRemote\QW-Remote\QW-Remote\QRemote.NET\obj\Debug\QRemote.NET.dll
+d:\code\QRemote\QW-Remote\QW-Remote\QRemote.NET\obj\Debug\QRemote.NET.pdb
